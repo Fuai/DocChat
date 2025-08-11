@@ -1,0 +1,16 @@
+gradio>=4.0.0
+langchain>=0.1.0
+langchain-community>=0.0.24
+langchain-core>=0.1.26
+python-dotenv
+chromadb
+unstructured
+pdf2image
+python-docx
+openpyxl
+transformers>=4.38.1
+torch>=2.2.0
+sentence-transformers>=2.5.1
+huggingface-hub>=0.23.0
+pypdf>=4.0.0
+docx2txt>=0.8
